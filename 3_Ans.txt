@@ -1,0 +1,13 @@
+Benefits of Using Meta Tags are :-
+
+1. Improved SEO: Meta tags, such as meta titles and meta descriptions, help search engines understand
+the content of web pages, leading to better search engine rankings and increased visibility in search results.
+
+2.Enhanced User Experience: Well-crafted meta descriptions can entice users to click on your site in search 
+results, increasing click-through rates and attracting more visitors.
+
+3.Viewport control : The viewport meta tag is crucial for responsive web design
+
+4.Structured Information: Meta tags like Open Graph and Twitter Cards provide structured data that social
+media platforms use to display rich previews of your web content, making it more appealing when shared
+on social networks.
